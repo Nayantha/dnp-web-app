@@ -107,6 +107,6 @@ const navMenu = [
     { name: 'Shoots', description: 'View recent shoots.', href: '/shoots' },
     { name: 'Testimonials', description: 'Get a to know about us.', href: '/testimonials' },
     { name: 'About', description: 'Get a to know about us.', href: '/about' },
-    { name: 'Reach', description: 'Get a to know about us.', href: '/links' },
+    { name: 'Contact', description: 'Get a to know about us.', href: '/links' },
 ];
 </script>
