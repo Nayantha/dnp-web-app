@@ -61,7 +61,7 @@
                                 >
                                     <!-- Light Mode Icon -->
                                     <svg
-                                            class="h-6 w-6 fill-zinc-100 stroke-zinc-500 transition group-hover:fill-zinc-200 group-hover:stroke-zinc-700 dark:hidden"
+                                            class="h-6 w-6 fill-zinc-100 stroke-teal-500 transition group-hover:fill-zinc-200 group-hover:stroke-zinc-700 dark:hidden"
                                             stroke-linecap="round"
                                             stroke-linejoin="round"
                                             stroke-width="1.5"
